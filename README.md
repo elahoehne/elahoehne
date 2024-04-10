@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-- 🧫 I'm a biochemist by training but found my way to bioinformatics
-- 🤓 I'm currently learning how to use git/Github and analyzing single-cell data
-
 <!--
 **elahoehne/elahoehne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
